@@ -3,7 +3,7 @@ import smtplib
 import threading
 
 log = ""
-email = "imnottheone490@gmail.com"
+email = "************@gmail.com"
 password = "***************" 
 
 interval = 15  # seconds
